@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37436" started-at="2020-07-20T07:07:33Z" finished-at="2020-07-20T07:08:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37436" started-at="2020-07-20T07:07:33Z" finished-at="2020-07-20T07:08:11Z">
+      <class name="com.makemytrip.makemytrip">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.makemytrip.makemytrip@51081592]" name="openBrowser" is-config="true" duration-ms="16918" started-at="2020-07-20T07:07:17Z" finished-at="2020-07-20T07:07:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="autopopup()[pri:1, instance:com.makemytrip.makemytrip@51081592]" name="autopopup" duration-ms="1101" started-at="2020-07-20T07:07:33Z" finished-at="2020-07-20T07:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autopopup -->
+        <test-method status="PASS" signature="flightsearchfrom()[pri:2, instance:com.makemytrip.makemytrip@51081592]" name="flightsearchfrom" duration-ms="4324" started-at="2020-07-20T07:07:35Z" finished-at="2020-07-20T07:07:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightsearchfrom -->
+        <test-method status="PASS" signature="flightsearchto()[pri:3, instance:com.makemytrip.makemytrip@51081592]" name="flightsearchto" duration-ms="1917" started-at="2020-07-20T07:07:39Z" finished-at="2020-07-20T07:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightsearchto -->
+        <test-method status="PASS" signature="getdatepicker()[pri:4, instance:com.makemytrip.makemytrip@51081592]" name="getdatepicker" duration-ms="2614" started-at="2020-07-20T07:07:41Z" finished-at="2020-07-20T07:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdatepicker -->
+        <test-method status="PASS" signature="h()[pri:5, instance:com.makemytrip.makemytrip@51081592]" name="h" duration-ms="936" started-at="2020-07-20T07:07:43Z" finished-at="2020-07-20T07:07:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="search()[pri:6, instance:com.makemytrip.makemytrip@51081592]" name="search" duration-ms="4078" started-at="2020-07-20T07:07:44Z" finished-at="2020-07-20T07:07:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="u()[pri:7, instance:com.makemytrip.makemytrip@51081592]" name="u" duration-ms="17437" started-at="2020-07-20T07:07:48Z" finished-at="2020-07-20T07:08:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- u -->
+        <test-method status="PASS" signature="company()[pri:8, instance:com.makemytrip.makemytrip@51081592]" name="company" duration-ms="4959" started-at="2020-07-20T07:08:06Z" finished-at="2020-07-20T07:08:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- company -->
+      </class> <!-- com.makemytrip.makemytrip -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

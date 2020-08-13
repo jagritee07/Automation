@@ -1,0 +1,7 @@
+<suite name="Loan Department">
+<test name="Personal loan">
+<packages>
+<package name="test"/>
+</packages>
+</test>
+</suite>

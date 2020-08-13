@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="157" started-at="2020-07-20T11:23:10Z" finished-at="2020-07-20T11:23:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="157" started-at="2020-07-20T11:23:10Z" finished-at="2020-07-20T11:23:10Z">
+      <class name="quickstart.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAUtomation()[pri:0, instance:quickstart.MavenJava.SeleniumTest@e25b2fe]" name="BrowserAUtomation" duration-ms="31" started-at="2020-07-20T11:23:10Z" finished-at="2020-07-20T11:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAUtomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:quickstart.MavenJava.SeleniumTest@e25b2fe]" name="elementsUi" duration-ms="0" started-at="2020-07-20T11:23:10Z" finished-at="2020-07-20T11:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- quickstart.MavenJava.SeleniumTest -->
+      <class name="quickstart.MavenJava.RESTAPITest">
+        <test-method status="PASS" signature="postJira()[pri:0, instance:quickstart.MavenJava.RESTAPITest@754ba872]" name="postJira" duration-ms="16" started-at="2020-07-20T11:23:10Z" finished-at="2020-07-20T11:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:quickstart.MavenJava.RESTAPITest@754ba872]" name="deleteTwitter" duration-ms="0" started-at="2020-07-20T11:23:10Z" finished-at="2020-07-20T11:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- quickstart.MavenJava.RESTAPITest -->
+      <class name="quickstart.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:quickstart.MavenJava.AppiumTest@146ba0ac]" name="IOSApps" duration-ms="16" started-at="2020-07-20T11:23:10Z" finished-at="2020-07-20T11:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAPpAndroid()[pri:0, instance:quickstart.MavenJava.AppiumTest@146ba0ac]" name="NativeAPpAndroid" duration-ms="16" started-at="2020-07-20T11:23:10Z" finished-at="2020-07-20T11:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPpAndroid -->
+      </class> <!-- quickstart.MavenJava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
